@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Maharana</h1>
-<h3 align="center">Data Analyst | ML & Time-Series Forecasting | Building with LLMs & RAG</h3>
+<h3 align="center">Data Analyst | Data Scienctist | AI & ML | Building with LLMs & RAG , Gen AI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+XIM+University;Data+Analyst+Intern+%40+BHPPL;Forecasting+%7C+Dashboards+%7C+RAG+Systems;Always+learning%2C+always+building" alt="Typing SVG" />
