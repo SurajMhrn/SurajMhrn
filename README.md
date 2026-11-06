@@ -24,8 +24,6 @@
 
 ## 👋 About me
 
-<img align="right" src="https://suraj-maharana.vercel.app/photo.jpg" width="190" alt="Suraj Maharana" />
-
 I'm a data scientist in Bhubaneswar. I build forecasting models, ML pipelines and generative-AI tools that point at a real decision, not just a benchmark.
 
 I'm a final-year B.Tech CSE student at **XIM University**, working across the full ML stack: classical forecasting, deep learning and generative AI, with the same care from the first notebook to the deployed dashboard.
@@ -33,8 +31,6 @@ I'm a final-year B.Tech CSE student at **XIM University**, working across the fu
 - 📍 Bhubaneswar, Odisha, India
 - 🎯 Open to **data science, ML and Gen-AI** roles and internships
 - ☕ Runs on Python, SQL, notebooks and too much chai
-
-<br clear="right" />
 
 ### 📈 Impact so far
 
@@ -260,16 +256,16 @@ Scrapes LinkedIn job posts to map which skills are in demand, for which roles, i
 ## 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SurajMhrn&show_icons=true&hide_border=true&bg_color=0c0b0b&title_color=e3123e&text_color=f1efe9&icon_color=e3123e" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurajMhrn&layout=compact&hide_border=true&bg_color=0c0b0b&title_color=e3123e&text_color=f1efe9" alt="Top languages" />
+  <img width="100%" src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="Profile details and contributions" />
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
+  <img width="49%" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most used languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=SurajMhrn&hide_border=true&background=0C0B0B&ring=E3123E&fire=E3123E&currStreakLabel=E3123E&currStreakNum=F1EFE9&sideNums=F1EFE9&sideLabels=F1EFE9&dates=8B8B86&stroke=333333" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SurajMhrn&bg_color=0c0b0b&color=f1efe9&line=e3123e&point=f1efe9&area=true&area_color=e3123e&hide_border=true" alt="Contribution graph" />
 </p>
 
 <p align="center">
